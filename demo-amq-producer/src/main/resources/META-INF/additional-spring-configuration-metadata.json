@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "queue.solicitud",
+  "type": "java.lang.String",
+  "description": "A description for 'queue.solicitud'"
+}]}
